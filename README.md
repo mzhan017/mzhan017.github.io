@@ -1,4 +1,4 @@
-# The Power of AI: Can We Only Let AI Thrive Even More?
+# The Power of AI: Can We Only Let AI Thrive Even More? (2026-3-14)
 I recently came across an article stating that Vibe Coding is contaminating open-source code: https://grith.ai/blog/vibe-coding-killing-open-source
 ## Summary of this blog
 The rise of AI is transforming the open-source ecosystem, yet data reveals its impacts are complex. Stack Overflow saw a 25% drop in user activity within six months of ChatGPT's launch, with weekly posts plummeting by half. AI-generated code is rife with issues, producing 1.7 times more problems per pull request (PR) than human-written code and being far more likely to be revised or reverted in the short term. Research also found that developers using AI tools actually took 19% longer to complete tasks—they expected a 24% speedup and subjectively perceived a 20% improvement after use.
