@@ -7,6 +7,7 @@
 ## Random Talk
 [1. The Inevitability of Information Lag?](chat/2026-3-15.md)<br>
 [2. [杂谈] 不公是常态？又一名学生选择自杀！](chat/cn/2026-3-17-cn.md)<br>
+[3. [生活] 反诈标记把银行转账限额了？](chat/cn/2026-4-5-cn.md)<br>
 ## Footer
 
 ### Contact
