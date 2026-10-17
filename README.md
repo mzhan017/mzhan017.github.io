@@ -17,6 +17,7 @@
 
 ### Contact
 - Email: [420075746@qq.com](mailto:420075746@qq.com)
+- 公众号: mzhan017
 
 ### Interests
 - AI and Future
