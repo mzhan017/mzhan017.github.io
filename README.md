@@ -14,15 +14,16 @@
 [6. [杂谈] 不可思议 ](chat/2026-10-13.md)<br>
 [7. [杂谈] 网上对喷的正当理由是什么? ](chat/2026-10-18.md)<br>
 [8. [杂谈] 根据入学量反推这个某划某育的力度有多大？](chat/2026-10-19.md)<br>
+
 ### Funny picture
 [1. 2026 ](funny-picture/2026/index.md)<br>
-
 
 ## Footer
 
 ### Contact
 - Email: [420075746@qq.com](mailto:420075746@qq.com)
 - 公众号: mzhan017
+- Resume: [mzhan017's resume](resume.md)<br>
 
 
 ### Interests
