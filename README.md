@@ -19,6 +19,8 @@
 - Email: [420075746@qq.com](mailto:420075746@qq.com)
 - 公众号: mzhan017
 
+### Funny picture
+[1. 2026 ](funny-picture/2026/index.md)<br>
 ### Interests
 - AI and Future
 - Programming
