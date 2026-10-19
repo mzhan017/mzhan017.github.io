@@ -13,14 +13,18 @@
 [5. [杂谈] 只能寄希望于美国人治美国人了 ](chat/cn/2026-4-30-cn.md)<br>
 [6. [杂谈] 不可思议 ](chat/2026-10-13.md)<br>
 [7. [杂谈] 网上对喷的正当理由是什么? ](chat/2026-10-18.md)<br>
+
+### Funny picture
+[1. 2026 ](funny-picture/2026/index.md)<br>
+
+
 ## Footer
 
 ### Contact
 - Email: [420075746@qq.com](mailto:420075746@qq.com)
 - 公众号: mzhan017
 
-### Funny picture
-[1. 2026 ](funny-picture/2026/index.md)<br>
+
 ### Interests
 - AI and Future
 - Programming
