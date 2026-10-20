@@ -19,7 +19,13 @@
 [1. 2026 ](funny-picture/2026/index.md)<br>
 
 ## Footer
-
+## Main contribution to Open source community
+### Openssl
+[1. Wrong return value causes memory leak](https://github.com/openssl/openssl/issues/9490)
+### Openssh
+[1. One dead lock case](https://bugzilla.mindrot.org/show_bug.cgi?id=3598)
+### Redhat
+[1. MTU related issue, missed merge from upstream](https://bugzilla.redhat.com/show_bug.cgi?id=2123369)
 ### Contact
 - Email: [420075746@qq.com](mailto:420075746@qq.com)
 - 公众号: mzhan017
