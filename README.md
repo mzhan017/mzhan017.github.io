@@ -1,4 +1,6 @@
 # 2026 blog list
+## ！重要的内容！
+[1.  [杂谈] 赌球广告？不要参与任何形式的赌博！](critical/football.md)<br>
 ## AI related
 [1. The Power of AI: Can We Only Let AI Thrive Even More?](ai/2026-3-14.md)<br>
 [2.  [AI] 疯狂背后的思考？](ai/cn/2026-3-16-cn.md)<br>
